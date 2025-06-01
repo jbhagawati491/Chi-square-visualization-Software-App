@@ -1,0 +1,47 @@
+🎉 Welcome to the Chi-Square Visualizer App!
+
+This application was built using MATLAB and requires the **MATLAB Runtime** to run. The Runtime is a free official component from MathWorks that allows you to run MATLAB-based apps without needing MATLAB installed.
+
+🟢 You only need to install the MATLAB Runtime once.
+
+---
+
+📥 STEP 1: Download the MATLAB Runtime
+
+Please download the MATLAB Runtime for your system from the official site:
+
+🔗 https://www.mathworks.com/products/compiler/matlab-runtime.html
+
+➡️ Select the version that matches the app:
+    ▶️ MATLAB Runtime R2025a (64-bit)
+    ▶️ Windows 64-bit
+
+Download size: ~3.8 GB (one-time download)
+
+---
+
+📦 STEP 2: Install the MATLAB Runtime
+
+- After downloading, run the installer (`setup.exe`).
+- Follow the prompts to complete the installation.
+- No license or MATLAB installation is required.
+
+---
+
+🚀 STEP 3: Run the App
+
+Once the MATLAB Runtime is installed:
+- Double-click the `.exe` file you received (e.g., `ChiSquareApp.exe`).
+- The app will now run independently!
+
+---
+
+❓ Need Help?
+
+If you run into issues:
+- Contact: jbhagawati491@gmail.com
+- GitHub: https://github.com/jbhagawati491
+
+Thank you for using the app!
+
+- Jyotishman Bhagawati

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bhagawati
+    given-names: Jyotishman
+    orcid: https://orcid.org/0009-0008-1068-1483
+    email: jbhagawati491@gmail.com
+title: "Chi-Square Visualizer App"
+version: "1.0"
+date-released: 2025-06-01
+url: "https://github.com/jbhagawati491"
+license: "MIT License"
